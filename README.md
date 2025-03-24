@@ -1,1 +1,1 @@
-# optimization_course_2024
+# optimization_2024
